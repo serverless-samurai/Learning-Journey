@@ -1,0 +1,3 @@
+pwd command is used for to check present working directory or in which directory currently user is sitting
+cd command is used for to change the directory if any user wants to change the directory we will use cd command
+Absolute Path is specifies the full location of a file or directory from the root whereas RELATIVE PATH specifies the location of a file or directory realtive to the current working directory exmaple . refers to the current directory and .. refres to the parent directory , Absolute path starts from / forward slash
